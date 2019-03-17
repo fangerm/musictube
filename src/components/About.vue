@@ -4,7 +4,7 @@
 
         <p>Created by Felix A. (<a href="https://www.github.com/fangerm">fangerm on GitHub</a>)</p>
         <p>Runs on Django and Vue.</p>
-        <p>Repository can be found <a href="https://www.github.com/fangerm/musictube">here</a>.</p>
+        <p>Repository can be found on <a href="https://www.github.com/fangerm/musictube">GitHub</a> or <a href="https://gitea.angm.xyz/felix/musictube">gitea</a>.</p>
     </div>
 </template>
 
